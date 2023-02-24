@@ -29,5 +29,3 @@
   <img right="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennque&layout=compact&theme=tokyonight&count_private=true"/>
 </div>
 <br/>
-
-  ![Snake animation](https://github.com/Rennque/Rennque/blob/output/github-contribution-grid-snake.svg)
