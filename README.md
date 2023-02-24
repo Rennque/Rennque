@@ -1,4 +1,4 @@
-## Olá eu sou o Henrique, Programador Full-Stack!
+## Olá eu sou o Henrique, programador junior / Full-Stack!
 <div>
 <img align="right" alt="Rennque-pic" height="150" style="" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/04e7d463600577.5ab5bb7aca59d.gif"></div>
 
